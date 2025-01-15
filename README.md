@@ -1,16 +1,25 @@
 # reddit_clone
+A feature-rich Reddit clone built using Flutter, Firebase and Cloudneary. This project demonstrates the development of a scalable, full-stack social media application with functionalities like authentication, post creation, commenting, and upvoting/downvoting posts.
 
-A new Flutter project.
+## Features
 
-## Getting Started
+#Authentication
+Sign up and log in using email and password.
+Persistent login with Firebase Authentication.
 
-This project is a starting point for a Flutter application.
+#Community Management
+Create, join, and leave communities.
+List and manage posts in specific communities.
 
-A few resources to get you started if this is your first Flutter project:
+#Posts and Interactions
+Create text/image-based posts.
+Comment on posts to engage with the community.
+Upvote or downvote posts to express opinions.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+#Real-Time Updates
+Posts, comments, and votes update instantly using Firebase Firestore.
+Responsive Design
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Optimized UI for android, ios and web platforms.
+
+## 
